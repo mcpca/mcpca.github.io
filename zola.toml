@@ -1,0 +1,27 @@
+title = "Miguel Aguiar"
+description = "Miguel Aguiar's homepage"
+default_language = "en" 
+
+# The URL the site will be built for
+base_url = "https://mcpca.github.io"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+theme = "austere"
+
+[extra]
+# Put all your custom variables here
+# Navigation menu.
+menu_links = [
+  { url = "$BASE_URL/", name = "Home" },
+  { url = "$BASE_URL/publications/", name = "Publications" },
+  { url = "$BASE_URL/software/", name = "Software" },
+]
+
+profile_picture = "/images/profile.png"
+
+footer_text = "Links: <a href=https://www.linkedin.com/in/miguel-aguiar-0496b1132>LinkedIn</a> | <a href=https://github.com/mcpca>Github</a> | <a href=https://scholar.google.com/citations?user=9LxTyZMAAAAJ&hl=en>Scholar</a> | <a href=https://www.kth.se/profile/aguiar>KTH</a>" 
