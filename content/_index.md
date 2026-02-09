@@ -13,7 +13,7 @@ between system-theoretical properties and learning, as well as applications of d
 surrogate modelling in control systems.
 
 Previously, I was a researcher and software engineer at LSTS in Porto, Portugal, where I worked
-mainly on trajectory optimisation and control for autonomous undewater vehicles.
+mainly on trajectory optimisation and control for autonomous underwater vehicles.
 
 ## News
 
