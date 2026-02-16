@@ -5,6 +5,8 @@ template = "index.html"
 
 # Miguel Aguiar
 
+email: &nbsp;&nbsp;&nbsp;**mcpcaguiar**&nbsp;at&nbsp;**gmail**&nbsp;dot&nbsp;**com**
+
 I am a doctoral student at KTH Royal Institute of Technology supervised by Karl Henrik Johansson,
 João Sousa (University of Porto) and Amritam Das (TU Eindhoven).
 
