@@ -19,5 +19,8 @@ mainly on trajectory optimisation and control for autonomous underwater vehicles
 
 ## News
 
-* January 2026: Our paper [Iterative Training of Physics-Informed Neural Networks with
+* **March 2026**: New preprint available: [RHYME-XT: A Neural Operator for Spatiotemporal Control
+Systems](https://arxiv.org/abs/2603.17867)
+
+* **January 2026**: Our paper [Iterative Training of Physics-Informed Neural Networks with
 Fourier-enhanced Features](https://arxiv.org/abs/2510.19399) has been accepted to ICLR 2026!

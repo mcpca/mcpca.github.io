@@ -31,7 +31,7 @@ and state reconstruction of traffic density", in 60th Conference on Decision and
 IEEE, 2021. [pdf](/academia/preprints/2021-cdc.pdf)
 
 * J. Fonseca, M. Aguiar, J. B. de Sousa, and K. H. Johansson, "Algal bloom front tracking using
-an unmanned surface vehicle: Numerical experiments based on baltic sea data", in OCEANS: San
+an unmanned surface vehicle: Numerical experiments based on Baltic Sea data", in OCEANS: San
 Diego-Porto, IEEE, 2021. [pdf](/academia/preprints/2021-oceans-fonseca.pdf)
 
 * A. Rocha et al., "Optimal AUV trajectory planning and execution control for maritime pollution
