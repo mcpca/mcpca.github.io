@@ -7,6 +7,10 @@ template = "index.html"
 
 email: &nbsp;&nbsp;&nbsp;**mcpcaguiar**&nbsp;at&nbsp;**gmail**&nbsp;dot&nbsp;**com**
 
+---
+
+## About me
+
 I am a doctoral student at KTH Royal Institute of Technology supervised by Karl Henrik Johansson,
 João Sousa (University of Porto) and Amritam Das (TU Eindhoven).
 
@@ -17,7 +21,11 @@ surrogate modelling in control systems.
 Previously, I was a researcher and software engineer at LSTS in Porto, Portugal, where I worked
 mainly on trajectory optimisation and control for autonomous underwater vehicles.
 
+---
+
 ## News
+
+* **May 2026**: I will defend my PhD thesis on Friday, June 5th at KTH. Details [here](https://www.kth.se/om/upptack/kalender/disputationer/learning-differentiable-simulation-models-of-control-systems-1.1474449).
 
 * **March 2026**: New preprint available: [RHYME-XT: A Neural Operator for Spatiotemporal Control
 Systems](https://arxiv.org/abs/2603.17867)
