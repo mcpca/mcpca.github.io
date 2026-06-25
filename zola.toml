@@ -24,4 +24,4 @@ menu_links = [
 
 profile_picture = "/images/profile.png"
 
-footer_text = "Links: <a href=https://www.linkedin.com/in/miguel-aguiar-0496b1132>LinkedIn</a> | <a href=https://github.com/mcpca>Github</a> | <a href=https://scholar.google.com/citations?user=9LxTyZMAAAAJ&hl=en>Scholar</a> | <a href=https://www.kth.se/profile/aguiar>KTH</a>" 
+footer_text = "Links: <a href=https://www.linkedin.com/in/miguel-aguiar-0496b1132>LinkedIn</a> | <a href=https://github.com/mcpca>Github</a> | <a href=https://scholar.google.com/citations?user=9LxTyZMAAAAJ&hl=en>Scholar</a> | <a href=https://orcid.org/0009-0006-0657-4103>ORCID</a>"

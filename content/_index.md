@@ -3,7 +3,7 @@ title = "Home"
 template = "index.html"
 +++
 
-# Miguel Aguiar
+# Miguel Aguiar, Ph.D.
 
 email: &nbsp;&nbsp;&nbsp;**mcpcaguiar**&nbsp;at&nbsp;**gmail**&nbsp;dot&nbsp;**com**
 
@@ -11,24 +11,5 @@ email: &nbsp;&nbsp;&nbsp;**mcpcaguiar**&nbsp;at&nbsp;**gmail**&nbsp;dot&nbsp;**c
 
 ## About me
 
-I am a doctoral student at KTH Royal Institute of Technology supervised by Karl Henrik Johansson,
-João Sousa (University of Porto) and Amritam Das (TU Eindhoven).
-
-I'm broadly interested in scientific machine learning for control, and in particular the interaction
-between system-theoretical properties and learning, as well as applications of differentiable
-surrogate modelling in control systems.
-
-Previously, I was a researcher and software engineer at LSTS in Porto, Portugal, where I worked
-mainly on trajectory optimisation and control for autonomous underwater vehicles.
-
----
-
-## News
-
-* **May 2026**: I will defend my PhD thesis on Friday, June 5th at KTH. Details [here](https://www.kth.se/om/upptack/kalender/disputationer/learning-differentiable-simulation-models-of-control-systems-1.1474449).
-
-* **March 2026**: New preprint available: [RHYME-XT: A Neural Operator for Spatiotemporal Control
-Systems](https://arxiv.org/abs/2603.17867)
-
-* **January 2026**: Our paper [Iterative Training of Physics-Informed Neural Networks with
-Fourier-enhanced Features](https://arxiv.org/abs/2510.19399) has been accepted to ICLR 2026!
+I graduated in 2026 with a PhD from KTH Royal Institute of Technology in Stockholm, Sweden,
+with a thesis entitled [Learning differentiable simulation models of control systems](https://kth.diva-portal.org/smash/get/diva2:2058649/FULLTEXT01.pdf).
